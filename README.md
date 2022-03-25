@@ -1,6 +1,2 @@
-<img src="https://github.com/iBy3l/Fashion/blob/main/img/fundo/fundo1.png" width="190">
-<img src="https://github.com/iBy3l/Fashion/blob/main/img/fundo/fundo2.png" width="190">
-<img src="https://github.com/iBy3l/Fashion/blob/main/img/fundo/fundo3.png" width="190">
 
-
-
+![Fashion](https://media2.giphy.com/media/OsCimJ6lFX4wXCePbu/giphy.gif?cid=790b76117d93ef8ab6b31093d291ba0e675b251349e4bc8f&rid=giphy.gif&ct=g)
